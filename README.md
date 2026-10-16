@@ -53,6 +53,8 @@ This is a list of all of the locales available for the [release version](https:/
 | File | Locale State | Contributors |
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| 1.0-pre3 | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus|
+
 
 ## Contributing
 
